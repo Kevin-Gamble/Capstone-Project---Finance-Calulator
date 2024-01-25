@@ -1,21 +1,14 @@
 """
-==========           Title = finance-calculator                      ==========  
-
-Version    = 3.0      
-Variable 
-
-Comments   
-Bond repayment calculator was incorrect in Version 1.0
-interest rate was used as a whole number e.g. 7 for 7% 
-it should be 7/100 = 0.07 (annual interest)
-then annual (interest) / 12 = (monthly interest)
-
+==========           Title = finance-calculator                      ==========       
 
 Author     = Kevin Gamble
 Student ID = KG23090010040
 
-Note to reviewer - Once fully versed with Git, version control and 
-                   comments will be utilised and header block pseudo code shall be stored in a text file as advised during a Lecture.
+Version 3 - No_of_years_investing Variable Changed to no_of_years_investing
+Version 2 - Bond repayment calculator was incorrect in Version 1.0
+            interest rate was used as a whole number e.g. 7 for 7% 
+            it should be 7/100 = 0.07 (annual interest)
+            then annual (interest) / 12 = (monthly interest)
 
 ==================================================================
 -----psuedo code-----
